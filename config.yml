@@ -34,7 +34,7 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-brands fa-rss"
+      icon: "fa-solid fa-file"
       text: "Resume"
       url: "https://mayankambaliya.github.io/mayank.me/resume.pdf"
       alt: "Mayank Ambaliya Resume"
